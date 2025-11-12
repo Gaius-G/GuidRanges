@@ -97,7 +97,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | PlatonischerRebell | 2.104.701.000 | 2.104.701.999 | no
 | Phloup          | 2.122.330.000 | 2.122.339.999 | no
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 | no
-| GaiusG          | 2.122.341.000 | 2.122.341.999 | no
+| GaiusG          | 2.122.341.000 | 2.122.341.999 |
 | Dreamfisher     | 2.122.350.000 | 2.122.350.999 | no
 | Ricky/MrKoekie  | 2.122.360.000 | 2.122.369.999 | no
 | Quentfr21/Moidu21 | 2.122.380.000 | 2.122.389.999 | no
